@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       Hello Vite + React!
-      <p className="text-2xl">Khildoj Pandey</p>
+      <p className="text-4xl font-bold ">Khildoj Pandey</p>
     </>
   );
 }
