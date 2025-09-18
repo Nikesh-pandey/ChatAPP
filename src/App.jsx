@@ -1,7 +1,8 @@
+import Message from './Components/UI/UI';
 function App() {
   return (
-    <>
-      Hello Vite + React!
+    <>;
+    <Message/>
     </>
   );
 }
